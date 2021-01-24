@@ -5,6 +5,7 @@ public class Test {
 
     private String name;
     private int age;
+    private short f;
 
     public String getName() {
         return name;
